@@ -137,4 +137,4 @@ Working with OSM data means dealing with things that toy graphs never throw at y
 ---
 
 *Built as part of an Algorithms / Design and Analysis of Algorithms course mini project.*  
-*Author: P Durga Divija Sri Sai *
+Author: P Durga Divija Sri Sai 
